@@ -1,0 +1,1 @@
+# ProGuard rules for :providers module
